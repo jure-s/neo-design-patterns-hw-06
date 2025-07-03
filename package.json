@@ -1,0 +1,21 @@
+{
+    "name": "neo-design-patterns-hw-05",
+    "version": "1.0.0",
+    "description": "Design Patterns Homework - Message Service Implementation",
+    "main": "dist/main.js",
+    "scripts": {
+        "build": "tsc",
+        "start": "ts-node src/main.ts"
+    },
+    "devDependencies": {
+        "@types/node": "^18.19.115",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.8.3"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "date-fns": "^4.1.0"
+    }
+}
